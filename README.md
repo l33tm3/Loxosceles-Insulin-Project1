@@ -1,6 +1,20 @@
 # Derivado Loxosceles-Insulina-1
 ### Reingeniería de la Esfingomielinasa D para el tratamiento de la Diabetes Tipo 2
 
+## 🧬 Comparación Estructural: Veneno vs. Cura
+
+Para validar el diseño, se comparó la estructura original con la variante mutada mediante AlphaFold 3.
+
+| Toxina Original (Rinconsito 1) | Derivado Final (Cura) |
+| :---: | :---: |
+| ![Rinconsito 1](./img/toxina.png) | ![Derivado Final](./img/cura.png) |
+| **pLDDT > 90** (Estructura Nativa) | **pLDDT > 90** (Estructura Preservada) |
+
+### Análisis de Resultados
+* **Conservación del Barril:** Ambas estructuras mantienen el **barril $(\beta/\alpha)_8$** característico de las esfingomielinasas D.
+* **Seguridad:** El modelo de la cura confirma que las mutaciones **H38A y E58A** no desestabilizan la proteína.
+* **Afinidad:** La variante final mantiene una **$\Delta G$ de -48.00 kcal/mol** en el acoplamiento con el receptor humano 1IRK.
+
 ---
 
 ## 🔬 Introducción
