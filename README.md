@@ -1,7 +1,9 @@
 # Derivado Loxosceles-Insulina-1
 ### Reingeniería de la Esfingomielinasa D para el tratamiento de la Diabetes Tipo 2
 
-## 🧬 Comparación Estructural: Veneno vs. Cura
+## 🧬 Comparación Estructural: Veneno vs. Cura 
+
+## Paper: https://github.com/l33tm3/Loxosceles-Insulin-Project1/blob/main/Computational_Design_of_a_Non_Toxic_Loxosceles_laeta_Ligand_for_Human_Insulin_Receptor_Activation.pdf
 
 Para validar el diseño, se comparó la estructura original con la variante mutada mediante AlphaFold 3.
 
